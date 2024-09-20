@@ -4,7 +4,7 @@ const {
     countVowels,
     mergeAndSortArrays,
     findDuplicates,
-  } = require("./stringUtils");
+  } = require("./tdd_own_test_cases");
   
   describe("String Utility Functions", () => {
     test("isAllCaps gibt true zurück wenn alles in Caps geschrieben wurde", () => {
