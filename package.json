@@ -1,0 +1,10 @@
+{
+  "name": "Ab07",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joel <joel.cidmouzinho@gmx.net>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  }
+}
